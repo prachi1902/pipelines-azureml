@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'AzureML' # Workspace Service Connection name
+  ml-ws-connection: 'azureml' # Workspace Service Connection name
   ml-ws: 'AKSml' # AML Workspace name
   ml-rg: 'Prachi-RG' # AML resource Group name
   ml-ct: 'CTforAKS' # AML Compute cluster name
