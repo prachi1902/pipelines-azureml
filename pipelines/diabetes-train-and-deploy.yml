@@ -2,11 +2,11 @@ variables:
   ml-ws-connection: 'azureml' # Workspace Service Connection name
   ml-ws: 'AKSml' # AML Workspace name
   ml-rg: 'Prachi-RG' # AML resource Group name
-  ml-ct: 'comresaks' # AML Compute cluster name
+  ml-ct: 'compresaks' # AML Compute cluster name
   ml-path: 'models/diabetes' # Model directory path in repo
   ml-exp: 'exp-test' # Experiment name
   ml-model-name: 'diabetes-model' # Model name
-  ml-aks-name: 'praks' # AKS cluster name
+  ml-aks-name: 'praaksclus' # AKS cluster name
 
 trigger:
 - master
